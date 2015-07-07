@@ -14,10 +14,10 @@
                "architecture":"avr",
                "version":"1.0.0",
                "category":"Printoo",
-               "url":"https://adafruit.github.io/arduino-board-index/boards/adafruit-1.1.0.tar.bz2",
-               "archiveFileName":"Printoo.rar",
-               "checksum":"SHA-1:45409553abf820927fd6b37cdc059a9c81d32eff",
-               "size":"411",
+               "url":"https://github.com/printoo/arduino-board/tree/master/boards/Printoo.zip",
+               "archiveFileName":"Printoo.zip",
+               "checksum":"SHA-256:421c074ae2f19f22ac551a4cbbf053b4bbdca98ee11394d630c9bdbb702b22b9",
+               "size":"563",
                "help":{
                   "online":"http://www.printoo.pt"
                },
