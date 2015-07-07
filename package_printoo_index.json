@@ -1,0 +1,46 @@
+{
+   "packages":[
+      {
+         "name":"printoo",
+         "maintainer":"Printoo",
+         "websiteURL":"http://www.printoo.pt",
+         "email":"info@ydreams.com",
+         "help":{
+            "online":"http://www.printoo.pt"
+         },
+         "platforms":[
+            {
+               "name":"Printoo AVR Board",
+               "architecture":"avr",
+               "version":"1.0.0",
+               "category":"Printoo",
+               "url":"https://github.com/printoo/arduino-board/tree/master/boards/Printoo.zip",
+               "archiveFileName":"Printoo.zip",
+               "checksum":"SHA-256:421c074ae2f19f22ac551a4cbbf053b4bbdca98ee11394d630c9bdbb702b22b9",
+               "size":"563",
+               "help":{
+                  "online":"http://www.printoo.pt"
+               },
+               "boards":[
+                  {
+                     "name":"Printoo (8Mhz)"
+                  }
+               ],
+               "toolsDependencies":[
+                  {
+                     "packager":"arduino",
+                     "name":"avr-gcc",
+                     "version":"4.8.1-arduino5"
+                  },
+                  {
+                     "packager":"arduino",
+                     "name":"avrdude",
+                     "version":"6.0.1-arduino5"
+                  }
+               ]
+            },
+          ],
+         "tools":[]
+      }
+   ]
+}
