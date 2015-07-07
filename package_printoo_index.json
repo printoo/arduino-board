@@ -19,7 +19,7 @@
                },
                "url":"https://github.com/printoo/arduino-board/tree/gh-pages/boards/Printoo.zip",
                "archiveFileName":"Printoo.zip",
-               "checksum":"SHA-256:421c074ae2f19f22ac551a4cbbf053b4bbdca98ee11394d630c9bdbb702b22b9",
+               "checksum":"SHA-256:50425e38002e8376c9c95f0610cc923579bcc8c314b8cdd639c0ec609504deb6",
                "size":"563",
                "boards":[
                   {"name":"Printoo (8Mhz)"}
