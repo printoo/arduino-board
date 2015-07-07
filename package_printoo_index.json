@@ -17,8 +17,8 @@
 			   "help":{
                   "online":"http://www.printoo.pt"
                },
-               "url":"https://printoo.github.io/arduino-board/boards/Printoo.zip",
-               "archiveFileName":"Printoo.zip",
+               "url":"https://printoo.github.io/arduino-board/boards/Printoo.tar.bz2",
+               "archiveFileName":"Printoo.tar.bz2",
                "checksum":"SHA-256:650ff702009d71d41c420875df954235ca122be3a1161904b85e2ad4906ebacd",
                "size":"1223",
                "boards":[
