@@ -4,13 +4,13 @@
          "name":"Printoo",
          "maintainer":"Printoo",
          "websiteURL":"http://www.printoo.pt",
-         "email":"info@ydreams.com",
+         "email":"ynvisible@ydreams.com",
          "help":{
             "online":"http://www.printoo.pt"
          },
          "platforms":[
             {
-               "name":"Printoo AVR Board",
+               "name":"Printoo Core",
                "architecture":"avr",
                "version":"1.0.0",
                "category":"Contributed",
@@ -19,8 +19,8 @@
                },
                "url":"https://printoo.github.io/arduino-board/boards/Printoo.tar.bz2",
                "archiveFileName":"Printoo.tar.bz2",
-               "checksum":"SHA-256:650ff702009d71d41c420875df954235ca122be3a1161904b85e2ad4906ebacd",
-               "size":"1223",
+               "checksum":"SHA-256:fcf68eace225deb053842fcadf606311e39d691d97124c7a544ffe6d6f9b29c5",
+               "size":"3249",
                "boards":[
                   {"name":"Printoo (8Mhz)"}
                ],
